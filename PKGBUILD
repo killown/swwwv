@@ -1,4 +1,4 @@
-# Maintainer: Your Name <youremail@example.com>
+# Maintainer: killown <24453+killown@users.noreply.github.com>
 pkgname=swwwv
 pkgver=1.0.0
 pkgrel=1
